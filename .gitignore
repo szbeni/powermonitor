@@ -1,0 +1,4 @@
+syntax: glob
+
+powermonitor_settings.py
+*.pyc
